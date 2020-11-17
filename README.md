@@ -19,4 +19,9 @@ This is a simple project that we have to develop
 
 ## How to contribute
 
+<<<<<<< HEAD
 Please fork this repository and then issue pull request
+=======
+####Copyright
+Git course 2014 
+>>>>>>> simple-changes
