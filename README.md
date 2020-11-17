@@ -18,3 +18,6 @@ This is another purpose.
 This is a simple project that we have to develop
 
 ## How to contribute
+
+####Copyright
+Git course 2014 
